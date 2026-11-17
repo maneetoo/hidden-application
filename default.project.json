@@ -1,0 +1,11 @@
+{
+  "name": "hidden-application",
+  "tree": {
+    "$className": "DataModel",
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "$path": "src/"
+      }
+    }
+  }
+}
